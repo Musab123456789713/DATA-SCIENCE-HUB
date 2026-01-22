@@ -1,0 +1,36 @@
+h1, h2 {color: darkslategrey;}
+
+p {
+    font-size: 20px;
+    font-family: Arial;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: lightgray;
+}
+
+td, th {
+    padding: 10px;
+    text-align: left;
+}
+
+
+tr:hover {
+    background-color: linen;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.ds-form {
+    max-width: 400px;
+    margin-top: 20px;
+}
+
+
+
